@@ -76,6 +76,11 @@ export const CarouselItemTitle = styled.h4`
   -webkit-text-fill-color: transparent;
   margin-bottom: 8px;
 
+  @media not all and (min-resolution:.001dpcm)
+  { @supports (-webkit-appearance:none) and (stroke-color:transparent) {
+    background: white; 
+  }}
+
   @media ${props => props.theme.breakpoints.md} {
     font-size: 20px;
     line-height: 28px;
