@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'DUAL',
     description: "Implemented 1-2 player game using Java Swing and Java Graphics. Created weak AI for single player mode. 2-D shooting game includes life bar, ammunition bar, as well as an aiming device.",
-    image: '/images/4.jpg',
+    image: '/images/4.png',
     tags: ['Java'],
     demo: '',
     code: 'https://github.com/XuperBryan/DUAL',
