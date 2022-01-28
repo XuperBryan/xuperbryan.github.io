@@ -1,3 +1,3 @@
-## Personal Portfolio
+# Personal Website
+Direct link to website: https://xuperbryan.github.io/
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)

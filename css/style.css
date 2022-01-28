@@ -1,0 +1,77 @@
+#profile_pic {
+	max-width: 100%;
+  	height: auto;
+  	display: flex;
+  	/*align-content: center;*/
+  	margin: 0 auto;
+  	border: 5px solid #45489a;
+}
+
+
+/*.intro_info {
+	background-color: #45489a;
+	border: 5px solid #45489a;
+	color: #fff;
+	font-size: 30px;
+	line-height: 125%;
+}
+*/
+#background_info{
+	background-color: #45489a;
+	border: 10px solid #45489a;
+	border-radius: 10%;
+}
+
+.Modern-Slider .info h1 {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  font-size: 48px;
+  color: #A5A86B;
+  font-weight: 700;
+}
+
+.Modern-Slider .info p {
+  font-size: 15px;
+  color: #A5A86B;
+}
+
+/*#introduction_text:after{
+	position: relative;
+	bottom: 125px;
+	color: black;
+    content: 'Web developer';
+    font-size: 200%;
+    font-weight: bold;
+    animation-name: head;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes head {
+    0% {font-size:200%; opacity:1; content: 'Web developer'}
+    12% {font-size:200%; opacity:0;}
+    33% {font-size:200%; opacity:1; content: "Data Analyst"}
+    45% {font-size:200%; opacity:0;}
+    66% {font-size:200%; opacity:1; content: "Software Engineer"}
+    78% {font-size:200%; opacity:0;}
+}*/
+
+#about_me {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 80px;
+  border-bottom: 1px solid #eee;
+}
+
+#about_me .section-heading {
+  margin-right: 2%;
+}
+
+#about_me .content-section {
+  display: inline-block;
+  position: relative;
+}
+
+#bottom_page{
+	background-color: rbg(12,12,12,1);
+}
