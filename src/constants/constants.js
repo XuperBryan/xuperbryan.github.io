@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Talk With Me',
     description:"Built fully functional real-time chat app using React, GraphQL, and Node. Supports multiple chat rooms and usernames. Best React + GraphQL App Category Winner at SBHacksVIII",
-    image: '/images/7.png',
+    image: '/images/7.jpg',
     tags: ['React', 'GraphQL', 'Node'],
     demo: '',
     code: 'https://github.com/sbhacks-viii/chat-with-me',
