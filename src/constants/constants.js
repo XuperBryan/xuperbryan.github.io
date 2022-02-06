@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Talk With Me',
+    description:"Built fully functional real-time chat app using React, GraphQL, and Node. Supports multiple chat rooms and usernames. Best React + GraphQL App Category Winner at SBHacksVIII",
+    image: '/images/7.png',
+    tags: ['React', 'GraphQL', 'Node'],
+    demo: '',
+    code: 'https://github.com/sbhacks-viii/chat-with-me',
+    id: 2,
+  },
+  {
     title: 'Icebreaker Bot',
-    description: "Created a Discord Bot from scratch using Discord.js. Finalist in SB Hacks7, and currently used in 40~ servers. Functionalities include random cat picture generator, mind reader game, and urban dictionary lookup.",
+    description: "Created a Discord Bot using Discord.js. Finalist in SB Hacks7, and currently used in 40~ servers. Functionalities include random cat picture generator, mind reader game, and urban dictionary lookup.",
       image: '/images/3.jpg',
       tags: ['Discord.js', 'Javascript'],
     demo: 'https://discord.com/oauth2/authorize?client_id=800069967894151178&scope=bot&permissions=3198016',
     code: 'https://github.com/XuperBryan/sbhacks7-icebreaker-bot',
-    id: 2,
+    id: 3,
   },
   {
     title: 'DUAL',
@@ -33,16 +42,16 @@ export const projects = [
     tags: ['Java'],
     demo: '',
     code: 'https://github.com/XuperBryan/DUAL',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Coronavirus Classifier',
-    description: "Created a Naive Bayes Classifier model for use on Coronavirus training datasets. Classifier was programmed to predict whether a given test subject would survive or pass away. Trained using public datasets with 20+ variables. Ranked first for time complexity, and top 5 for accuracy in class of 80.",
+    description: "Created a Naive Bayes Classifier model on Coronavirus datasets. Trained to predict whether a given test subject would survive or pass away. Trained and validated using public datasets with 200,000+ data points. ",
     image: '/images/5.png',
     tags: ['C++'],
     demo: '',
     code: 'https://github.com/XuperBryan/Naive_Bayes_Classifier_AI',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Figma Conversion',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['React', 'Figma', 'CSS'],
     demo: 'https://figma-conversion.netlify.app/',
     code: 'https://github.com/XuperBryan/figma-magic',
-    id: 5,
+    id: 6,
   },
 ];
 
@@ -61,5 +70,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Transferred into Computer Science major, learned C++ and Computer Science fundamentals', },
   { year: 2020, text: 'Learned AGILE methodology, team-based application development, and React frontend', },
   { year: 2021, text: 'Attended first hackathon, tutored CMPSC16 at UCSB, started building AI projects. Quantitative Analysis Researcher Intern at Prudential Financial ', },
-  { year: 2022, text: 'Started creating and designing full stack web applications, accepted into MS CS program at UCSB, Software Engineer Intern at Meta', },
+  { year: 2022, text: 'Started creating and designing full stack web applications, won first hackathon, accepted into MS CS program at UCSB, Software Engineer Intern at Meta', },
 ];
