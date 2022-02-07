@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Talk With Me',
-    description:"Built fully functional real-time chat app using React, GraphQL, and Node. Supports multiple chat rooms and users. Best React + GraphQL App Category Winner at SBHacksVIII",
+    description:"Built fully functional real-time chat app using React, GraphQL, and Node. Supports multiple chat rooms and concurrent users. Winner of \"Best React + GraphQL App\" Category at SB Hacks VIII.",
     image: '/images/7.jpg',
     tags: ['React', 'GraphQL', 'Node'],
     demo: '',
@@ -28,9 +28,9 @@ export const projects = [
   },
   {
     title: 'Icebreaker Bot',
-    description: "Created a Discord Bot using Discord.js. Finalist in SB Hacks7, and currently used in 40~ servers. Functionalities include random cat picture generator, mind reader game, and urban dictionary lookup.",
+    description: "Created a Discord Bot using Discord.js. Functionalities include interactive music player, group icebreaker games, and urban dictionary lookup. Finalist in \"Best Beginner Hack\" Category at SB Hacks VII, and currently active in over 40 servers. ",
       image: '/images/3.jpg',
-      tags: ['Discord.js', 'Javascript'],
+      tags: ['Discord.js'],
     demo: 'https://discord.com/oauth2/authorize?client_id=800069967894151178&scope=bot&permissions=3198016',
     code: 'https://github.com/XuperBryan/sbhacks7-icebreaker-bot',
     id: 3,
