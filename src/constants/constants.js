@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'T.A.L.K.',
+    description: "6 month capstone project with Invoca to create a full stack web app, providing call information in a single view. Produced an intuitive multi-cloud service, showing sales agents additional call information including important keywords, a summary, and sentiment analysis - obtained from near real-time call transcriptions",
+      image: '/images/0.png',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    demo: 'https://invoca-capstone.herokuapp.com/',
+    code: '',
+    id: 0,
+  },
+  {
     title: 'My Memories',
     description: "Using the MERN tech stack, this basic social media app allows users to create, like, edit, and delete posts. Functionalities differ depending on ownership of post. Fully responsive website and includes authentication through google oauth or native user database.",
       image: '/images/1.png',
@@ -55,7 +64,7 @@ export const projects = [
   },
   {
     title: 'Figma Conversion',
-    description: "Created a modern style UI/UX design using a Figma template. Wrote CSS and frontend using React, and used media queries to make entire web app fully responsive. Currently filled with mostly placeholder text, but learned a lot about positioning and styling through this Figma template conversion.",
+    description: "Created a modern style UI/UX design using a Figma template. Wrote CSS and frontend using React, and used media queries to make entire web app fully responsive. Currently filled with placeholder text, but learned a lot about positioning and styling through this Figma template conversion.",
     image: '/images/6.png',
     tags: ['React', 'Figma', 'CSS'],
     demo: 'https://figma-conversion.netlify.app/',
