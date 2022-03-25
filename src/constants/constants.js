@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/0.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     demo: 'https://invoca-capstone.herokuapp.com/',
-    code: '',
+    code: 'https://github.com/XuperBryan/cs189_invoca/',
     id: 0,
   },
   {
