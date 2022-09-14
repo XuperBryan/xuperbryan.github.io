@@ -12,7 +12,7 @@ const Hero = () => (
         Professional Portfolio
       </SectionTitle>
       <SectionText>
-      <p>I'm an aspiring software engineer! My hobbies include playing badminton, reading light novels and webtoons, and watching anime. Currently learning full stack development, and hope to grow a lot as a software engineer. I currently plan to specialize in Artificial Intelligence for my masters degree at UCSB!</p>
+      <p>I'm an aspiring software engineer! My hobbies include playing badminton, reading light novels and webtoons, and watching anime. Currently learning full stack development, and hope to grow a lot as a software engineer. I am in my last year to complete my Computer Science MS degree at UCSB!</p>
       </SectionText>
       <Button onClick={() => {window.open('resume.pdf', '_blank');}}>Resume</Button>
     </LeftSection>
