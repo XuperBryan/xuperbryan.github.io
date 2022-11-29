@@ -13,7 +13,7 @@ export const projects = [
     description: "Using the MERN tech stack, this basic social media app allows users to create, like, edit, and delete posts. Functionalities differ depending on ownership of post. Fully responsive website and includes authentication through google oauth or native user database.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    demo: 'https://my-memory-dashboard.netlify.app/',
+    demo: 'https://www.youtube.com/watch?v=MAZwwFAk7mM',
     code: 'https://github.com/XuperBryan/My-Memories',
     id: 0,
   },
