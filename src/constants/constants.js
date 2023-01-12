@@ -4,7 +4,7 @@ export const projects = [
     description: "6 month capstone project with Invoca to create a full stack web app, providing call information in a single view. Produced an intuitive multi-cloud service, showing sales agents additional call information including important keywords, a summary, and sentiment analysis - obtained from near real-time call transcriptions",
       image: '/images/0.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    demo: '',
+    demo: 'https://youtu.be/qGD9hiCJQoY/',
     code: 'https://github.com/XuperBryan/T.A.L.K./',
     id: 0,
   },
